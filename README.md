@@ -4,10 +4,11 @@ String Manipulation, List Manipulation, Dictionary Manipulation, Control Structu
 ### Task 1: String Manipulation
 
 Write a Python program that performs the following operations on a given string:
-•	Convert the string to uppercase.
-•	Find the length of the string.
-•	Replace a specified substring with another substring.
-•	Split the string into a list of words.
+
+Convert the string to uppercase.
+Find the length of the string.
+Replace a specified substring with another substring.
+Split the string into a list of words.
 
 ### Task 2: List Manipulation
 
