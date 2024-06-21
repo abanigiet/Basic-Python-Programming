@@ -1,7 +1,7 @@
 # Basic-Python-Programming
 String Manipulation, List Manipulation, Dictionary Manipulation, Control Structures
 
-## Task 1: String Manipulation
+### Task 1: String Manipulation
 Write a Python program that performs the following operations on a given string:
 •	Convert the string to uppercase.
 •	Find the length of the string.
